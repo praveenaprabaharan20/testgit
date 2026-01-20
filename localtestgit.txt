@@ -1,1 +1,2 @@
  testing git from local
+git fetch test
